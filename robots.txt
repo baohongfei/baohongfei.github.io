@@ -10,8 +10,3 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-
-font:
-  enable: true
-  # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host: fonts.useso.com
